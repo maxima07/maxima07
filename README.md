@@ -5,8 +5,8 @@
     С++, CMake, Git
 
 ### __Связаться со мной:__
-    * [Telegram](t.me/ma_xima);
-    * [Mail](ma_xima@inbox.ru).
-    
+    [Telegram](t.me/ma_xima) ;
+    [Mail](ma_xima@inbox.ru) .
+
 ### __Карьера:__ 
-    * [Habr](https://career.habr.com/ma_xima)
+    [Habr](https://career.habr.com/ma_xima)
