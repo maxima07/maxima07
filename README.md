@@ -6,7 +6,7 @@ __Стек:__
 
 __Связаться со мной:__  
         - [Telegram](https://t.me/ma_xima)  
-        - [Mail](https://ma_xima@inbox.ru)  
+        - [Mail](mailto:ma_xima@inbox.ru)  
 
 __Карьера:__   
         - [Habr](https://career.habr.com/ma_xima/)  
